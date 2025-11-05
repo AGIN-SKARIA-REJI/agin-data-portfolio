@@ -49,6 +49,6 @@ I enjoy working with real-world data, cleaning messy datasets, and turning numbe
 ## 📬 Contact Me
 
 - 📧 [agin.s.reji@gmail.com](mailto:agin.s.reji@gmail.com)
-- 🔗 [LinkedIn](www.linkedin.com/in/aginskariareji)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aginskariareji/)
 
 
