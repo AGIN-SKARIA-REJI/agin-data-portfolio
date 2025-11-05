@@ -30,7 +30,7 @@ I enjoy working with real-world data, cleaning messy datasets, and turning numbe
 
 ---
 
-### 📈 [Data Science Job Market Dashboard](#)
+### 📈 [DS Job Analysis](#)
 **Tools:** Power BI, Excel  
 **Goal:** Analyze job demand and skill trends in the Data Science field.  
 **Highlights:**  
@@ -49,6 +49,6 @@ I enjoy working with real-world data, cleaning messy datasets, and turning numbe
 ## 📬 Contact Me
 
 - 📧 [agin.s.reji@gmail.com](mailto:agin.s.reji@gmail.com)
-- 🔗 [LinkedIn](#) *(add your profile link here)*  
+- 🔗 [LinkedIn](#) *(www.linkedin.com/in/aginskariareji)*  
 
 
